@@ -1,0 +1,17 @@
+{
+  "name": "js-parse-number",
+  "version": "1.0.0",
+  "description": "Parse Phone Number -- recruitment test",
+  "main": "parse-number.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "VoxSmart Ltd",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+ }
+}
